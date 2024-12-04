@@ -1,6 +1,6 @@
 # Listview example
 
-A Flutter projectdata That fetch data from api and show in list view and serch option also.
+A Flutter projectdata That fetch data from api and show in list view and search option also.
 
 ## Getting Started
 
